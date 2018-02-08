@@ -1,5 +1,7 @@
 # enjoy-degsin-pattern
 
+## 교재 : Java 언어로 배우는 디자인 패턴 입문 [책 정보](http://book.naver.com/bookdb/book_detail.nhn?bid=4529127)
+
 ## 스터디 일정
 
 | 일자 | 챕터 | 참여자 |
