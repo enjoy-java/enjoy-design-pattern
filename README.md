@@ -9,7 +9,7 @@
 |03월 04일| Part 01 디자인 패턴과 친해지기, Part 02 하위 클래스에게 위임하기 | |
 |03월 11일| Part 03 인스턴스 만들기 (Singleton, Prototype, Builder, Abstract Factory) | |
 |03월 18일| Part 04 분리해서 생각하기 (Bridge, Strategy) | |
-|03월 25일| Part 05 동일시하기 (Composite, Decotator) | |
+|03월 25일| Part 05 동일시하기 (Composite, Decorator) | |
 |04월 01일| Part 06 구조를 돌아다니기 (Visitor, Chain of Responsibility) | |
 |04월 08일| Part 07 단순화하기 (Facade, Mediator) | |
 |04월 15일| Part 08 상태를 관리하기 (Observer, Memento, State) | |
